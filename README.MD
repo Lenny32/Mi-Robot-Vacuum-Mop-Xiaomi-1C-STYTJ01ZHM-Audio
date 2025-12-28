@@ -86,6 +86,9 @@ We used these references during setup:
 - Supported robots page: https://valetudo.cloud/pages/general/supported-robots.html#xiaomi_1c
 - Manual install notes: https://gist.github.com/stek29/5c44244ae190f3757a785f432536c22a
 
+## Documentation
+- `documentation/dreame_1c_root.md`
+
 Manual install that was required:
 ```bash
 ./install-manual.sh
