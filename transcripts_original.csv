@@ -1,0 +1,66 @@
+id,text
+0,Turning on.
+1,Waiting for the network setup.
+2,"and able to connect to the Wi-Fi network.
+Please check the Wi-Fi password and try again."
+3,"Unable to connect to the Wi-Fi network.
+Please check your local network and try again."
+4,I've left the network setup mode
+5,"Network connected, successfully."
+6,"Unable to connect to network, please try again."
+7,I'm starting the cleanup.
+8,I'm starting the partial cleanup.
+9,I'm starting the scheduled cleanup.
+10,I'm resuming the cleanup.
+11,Cleanup paused.
+12,Cleanup completed.
+13,Returning to the doctor charge.
+14,"Low battery. I'll return to the dock to charge.
+Once the battery is fully charged, I'll continue the cleanup."
+15,I'm about to return to the starting point.
+16,Low battery. I'm about to return to the starting point. Please charge me.
+17,Please move me to the charging dock.
+18,I'm already at the charging dock.
+19,Please remove me from the charging dock and turn me off.
+20,"Low battery, I need to charge."
+21,"Low battery, I will turn off"
+22,Please move me to an area that needs to be cleaned.
+23,My water compartment has been installed
+24,Please check whether my water compartment is properly installed
+25,"Low battery, I'm unable to carry out the scheduled cleanup."
+26,Restoring to factory settings.
+27,"I'm updating, it will take me about five minutes.
+Do not turn me off, nor start a cleaning task."
+28,Updated. Successfully.
+29,"Couldn't update, please try again."
+30,I'm repositioning. Please stay clear.
+31,"I've detected a new area, and will start a new cleaning task."
+33,Please wipe my camera clean.
+34,Please install my dust compartment.
+35,Please check and clean my main brush
+36,Please check and clean my side brush
+37,Please check and clean my right wheel.
+38,Please check and clean my left wheel.
+39,Please wipe my obstacle sensor clean.
+40,I'm stuck. Please reposition me so I can start cleaning.
+41,My wheels are suspended. Please put me back on the floor.
+42,Please check and clean my filter.
+43,Please check and gently tap my bumper to see if it rebounds.
+44,"If there's an issue, please check the user manual or contact after-sales service."
+45,I'm here.
+46,"The phone and I were connected, please return to the APP to wait for the setup to complete."
+47,Charging
+48,"Low battery, I'm returning to the dock to charge."
+49,"I've detected a strong magnetic field nearby, please reposition me so I can start cleaning."
+50,Please check and clean the charging contacts.
+51,"My battery's temperature is outside the normal operating range, once it's within range, I can work again"
+52,"I'm tilted, please reposition me to a level surface so I can start cleaning."
+53,I've detected a virtual wall nearby. Please reposition me so I can start cleaning.
+54,"Reposition successfully, I'll continue the cleanup."
+55,"Reposition successfully, I'll return to the dock to charge."
+56,I'm starting the area cleanup.
+57,I'm starting the zoned cleanup.
+58,I'll continue the cleanup.
+59,Mopping completed. Please remove my water compartment.
+60,"Optical sensor error, please wipe the optical sensor clean and restart."
+200,turning off
