@@ -1,6 +1,6 @@
-# Xiaomi 1C Voice Pack Generator (Google Cloud TTS)
+# Mi Robot Vacuum-Mop Xiaomi 1C (STYTJ01ZHM) Audio
 
-Create TTS audio files from `transcripts.csv` and package them for the Xiaomi 1C.
+Create TTS audio files from `transcripts.csv` and package them for the Mi Robot Vacuum-Mop Xiaomi 1C (STYTJ01ZHM).
 
 ## Prerequisites
 - Python 3.10+ (Windows PowerShell examples below)
@@ -68,6 +68,8 @@ Run from Linux or WSL:
 ```
 
 ## Serve and connect
+Valetudo should already be installed on the robot.
+
 Back on Windows, start a local server:
 ```powershell
 python.exe -m http.server 8000 --bind 0.0.0.0
@@ -78,6 +80,17 @@ Connect to Valutedo and follow the image guide:
 ![Valutedo guide](images/valutedo.png)
 
 You should now have the new voices.
+
+## References
+We used these references during setup:
+- Supported robots page: https://valetudo.cloud/pages/general/supported-robots.html#xiaomi_1c
+- Manual install notes: https://gist.github.com/stek29/5c44244ae190f3757a785f432536c22a
+
+Manual install that was required:
+```bash
+./install-manual.sh
+./install.sh
+```
 
 ## Troubleshooting
 - `ffmpeg not found on PATH`: install with `winget install ffmpeg`, then open a new PowerShell and run `ffmpeg -version`.
